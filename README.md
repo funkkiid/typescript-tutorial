@@ -1,5 +1,7 @@
 # TypeScript 入门教程
 
+> 本开源书 forked from [TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial)，作者为 [xcatliu](https://github.com/xcatliu)，欢迎大家 star 原作者的 [repo](https://github.com/xcatliu/typescript-tutorial)，以便获得最新更新，谢谢！
+
 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
 
 > 原名《From JavaScript to TypeScript》，寓意此书的作者并不是 TypeScript 的专家，而是一个新手。希望分享学习的过程，帮助大家更容易的理解 TypeScript。
